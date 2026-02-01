@@ -4,7 +4,7 @@ A feature-rich clone of the ChatGPT interface, enhanced with developer-centric t
 
 ---
 
-## 🛠 Features
+## 🛠 Planned Features
 
 - Hybrid Deployment: Operates as both a high-performance Web Application and a native Electron Desktop Application.
 - Persistent Chats: Never lose a thread. All conversations are stored locally for instant retrieval.
